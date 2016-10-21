@@ -1,5 +1,3 @@
-## Twitter Sentiment - Python, Docker, Elasticsearch, Kibana
+## Twitter Sentiment - Python,Elasticsearch, Kibana
 
-So easy!
-
-Check out the blog post - [https://realpython.com/blog/python/twitter-sentiment-python-docker-elasticsearch-kibana/](https://realpython.com/blog/python/twitter-sentiment-python-docker-elasticsearch-kibana/)
+Twitter Sentiment Analysis - Using Python,Elasticsearch & Kibana
