@@ -1,3 +1,5 @@
+#the config file that has your twitter access information. 
+
 consumer_key = "Your_consumer_key_here"
 consumer_secret = "Your_consumer_secret_here"
 access_token = "Your_access_token_here"
