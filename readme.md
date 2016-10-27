@@ -18,7 +18,7 @@ Install Kibana :    [Kibana](https://www.elastic.co/downloads/kibana)
 
 After installing these two applications we would now get stated by cloning this project onto your host machine. 
 
-git clone https://github.com/Jay-Wani/dockercompose-sampleapp.git
+git clone https://github.com/Jay-Wani/Elastic-twitter-sentiment-analysis.git
 
 # Creating Twitter Dev account and obtaining the access tokens.
 
