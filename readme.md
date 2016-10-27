@@ -13,21 +13,21 @@ Python would be used for coding the application. I have used python 2.7, you can
 
 Find below the link for installing Elasticsearch & Kibana. 
 
-Install Elasticsearch :            [Elasticsearch](https://docs.docker.com/installation/) and 
-Install Kibana :    [Kibana](https://docs.docker.com/compose/install/)
+Install Elasticsearch :            [Elasticsearch](https://www.elastic.co/downloads/elasticsearch) and 
+Install Kibana :    [Kibana](https://www.elastic.co/downloads/kibana)
 
 After installing these two applications we would now get stated by cloning this project onto your host machine. 
 
+git clone https://github.com/Jay-Wani/dockercompose-sampleapp.git
 
 # Creating Twitter Dev account and obtaining the access tokens.
 
 In order to get started be sure to clone this project onto your host machine. Create a directory on your host. Please note that this application would use the twitter dev API's for getting access to twitter feed. You need to create a twitter dev account and get the following information form there. 
 
-
-
-
-
-git clone https://github.com/Jay-Wani/dockercompose-sampleapp.git
+        consumer_key 
+        consumer_secret 
+        access_token 
+        access_token_secret
 
 
 
@@ -121,6 +121,6 @@ Import Modules : We would be importing the following modules for this applicatio
 
 # Run the python file
 ```yaml
-docker-compose up -d
+>> python twittersent.py
 ```
 
