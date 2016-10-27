@@ -128,7 +128,9 @@ This would start streaming all those teweets that have the word ```cloud``` in t
 
 # Run Kibana to Visualize the data and create live dashboards
 
-Start kibana on localhost:5601  ```replace localhost by the ip address of your machine is you are accessing remotely or on a cloud ``` 
+`Start kibana on localhost:5601`
+
+Replace localhost by the ip address of your machine is you are accessing remotely or on a cloud platform.
 
 
 
