@@ -1,4 +1,4 @@
-## Twitter Sentiment - Python,Elasticsearch, Kibana
+# Twitter Sentiment - Python,Elasticsearch, Kibana
 
 Twitter Sentiment Analysis - Using Python,Elasticsearch & Kibana
 
@@ -123,4 +123,12 @@ Import Modules : We would be importing the following modules for this applicatio
 ```yaml
 >> python twittersent.py
 ```
+This would start streaming all those teweets that have the word ```cloud``` in them.
+
+
+# Run Kibana to Visualize the data and create live dashboards
+
+Start kibana on localhost:5601  ```replace localhost by the ip address of your machine is you are accessing remotely or on a cloud ``` 
+
+
 
